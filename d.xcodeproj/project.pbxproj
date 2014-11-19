@@ -9,12 +9,12 @@
 /* Begin PBXBuildFile section */
 		E01B49FE1A1116D800639DDB /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E01B49FD1A1116D800639DDB /* main.m */; };
 		E01B4A011A1116D800639DDB /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E01B4A001A1116D800639DDB /* AppDelegate.m */; };
-		E01B4A041A1116D800639DDB /* d.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E01B4A021A1116D800639DDB /* d.xcdatamodeld */; };
 		E01B4A071A1116D800639DDB /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E01B4A061A1116D800639DDB /* ViewController.m */; };
 		E01B4A0A1A1116D800639DDB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E01B4A081A1116D800639DDB /* Main.storyboard */; };
 		E01B4A0C1A1116D800639DDB /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E01B4A0B1A1116D800639DDB /* Images.xcassets */; };
 		E01B4A0F1A1116D800639DDB /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E01B4A0D1A1116D800639DDB /* LaunchScreen.xib */; };
 		E01B4A1B1A1116D800639DDB /* dTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E01B4A1A1A1116D800639DDB /* dTests.m */; };
+		E01B4A241A1116EA00639DDB /* d.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E01B4A021A1116D800639DDB /* d.xcdatamodeld */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -224,8 +224,8 @@
 			files = (
 				E01B4A011A1116D800639DDB /* AppDelegate.m in Sources */,
 				E01B49FE1A1116D800639DDB /* main.m in Sources */,
+				E01B4A241A1116EA00639DDB /* d.xcdatamodeld in Sources */,
 				E01B4A071A1116D800639DDB /* ViewController.m in Sources */,
-				E01B4A041A1116D800639DDB /* d.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
